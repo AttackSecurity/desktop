@@ -36,7 +36,6 @@ type Output struct {
 }
 
 var PasswordPolicies = map[string]PasswordPolicy{
-	"Netflix":      {ServiceName: "Netflix", MinLength: 6, MaxLength: 60},
-	"Crunchyroll":  {ServiceName: "Crunchyroll", MinLength: 6, MaxLength: 32},
-	"Crunchyroll2": {ServiceName: "Crunchyroll", MinLength: 6, MaxLength: 32},
+	"Netflix":     {ServiceName: "Netflix", MinLength: 6, MaxLength: 60},
+	"Crunchyroll": {ServiceName: "Crunchyroll", MinLength: 6, MaxLength: 32},
 }
