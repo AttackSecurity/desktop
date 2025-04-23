@@ -1,0 +1,6 @@
+{
+  "formatNumbers": true,
+  "lineFormat": "pass",
+  "maxWorkers": 20,
+  "hardwareAcceleration": false
+}

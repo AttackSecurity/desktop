@@ -1,0 +1,26 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# Dependencies
+/frontend/node_modules
+
+# Next.js build output
+/frontend/.next/
+/frontend/out/
+
+/frontend/build
+
+# Debug logs
+/frontend/npm-debug.log*
+/frontend/yarn-debug.log*
+/frontend/yarn-error.log*
+/frontend/.pnpm-debug.log*
+
+# Environment variables
+/frontend/.env*
+
+# Vercel deployment files
+/frontend/.vercel
+
+# TypeScript files
+/frontend/*.tsbuildinfo
+/frontend/next-env.d.ts
