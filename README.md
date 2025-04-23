@@ -105,6 +105,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Acknowledgements
 
+- @github.com/kkmihai (WebUI Development)
 - Wails framework team
 - Next.js community
 - Go language developers
